@@ -4,7 +4,7 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "name": "Rater Project",
-            "database": "rater.db"
+            "database": "db.sqlite3"
         }
     ]
 }
