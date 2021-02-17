@@ -1,0 +1,28 @@
+[
+    {
+        "model": "raterapi.games",
+        "pk": 1,
+        "fields": {
+            "name": "Chess",
+            "title": "The game to end all games",
+            "description": "The hardest game ever",
+            "year_released": 1804,
+            "number_of_players": 4,
+            "estimated_time_play": 60,
+            "age_recommendation": 3
+        }
+    },
+    {
+        "model": "raterapi.games",
+        "pk": 1,
+        "fields": {
+            "name": "Chess",
+            "title": "The game to end all games",
+            "description": "The hardest game ever",
+            "year_released": 1804,
+            "number_of_players": 4,
+            "estimated_time_play": 60,
+            "age_recommendation": 3
+        }
+    }
+]
